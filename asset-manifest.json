@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/theportal/static/css/main.13bcf8b0.chunk.css",
-    "main.js": "/theportal/static/js/main.dc7a99f6.chunk.js",
-    "main.js.map": "/theportal/static/js/main.dc7a99f6.chunk.js.map",
+    "main.css": "/theportal/static/css/main.cf90bb67.chunk.css",
+    "main.js": "/theportal/static/js/main.ad9b2633.chunk.js",
+    "main.js.map": "/theportal/static/js/main.ad9b2633.chunk.js.map",
     "runtime-main.js": "/theportal/static/js/runtime-main.631c0642.js",
     "runtime-main.js.map": "/theportal/static/js/runtime-main.631c0642.js.map",
     "static/js/2.db133388.chunk.js": "/theportal/static/js/2.db133388.chunk.js",
     "static/js/2.db133388.chunk.js.map": "/theportal/static/js/2.db133388.chunk.js.map",
     "index.html": "/theportal/index.html",
-    "static/css/main.13bcf8b0.chunk.css.map": "/theportal/static/css/main.13bcf8b0.chunk.css.map",
+    "static/css/main.cf90bb67.chunk.css.map": "/theportal/static/css/main.cf90bb67.chunk.css.map",
     "static/js/2.db133388.chunk.js.LICENSE.txt": "/theportal/static/js/2.db133388.chunk.js.LICENSE.txt",
     "static/media/index.css": "/theportal/static/media/herobg.ce7e9428.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.631c0642.js",
     "static/js/2.db133388.chunk.js",
-    "static/css/main.13bcf8b0.chunk.css",
-    "static/js/main.dc7a99f6.chunk.js"
+    "static/css/main.cf90bb67.chunk.css",
+    "static/js/main.ad9b2633.chunk.js"
   ]
 }
