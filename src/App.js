@@ -137,7 +137,7 @@ function App() {
           link: 'https://drive.google.com/file/d/1Hp92HAYNniDWYvTZ5rXkkhzo2t26UsU8/view?usp=sharing', 
           picture: 'https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_.jpg', 
           id: 3, 
-          available: 'not in '
+          available: ''
       }, 
       {
           name: 'Spider-Man: Homecoming', 
@@ -193,7 +193,7 @@ function App() {
         link: 'https://drive.google.com/file/d/1gpQR6WgN8gy3Rnq-1FkeMr5mXPRzP7zL/view?usp=sharing', 
         picture: 'https://upload.wikimedia.org/wikipedia/en/b/bd/Spider-Man_Far_From_Home_poster.jpg', 
         id: 11, 
-        available: 'not in drive'
+        available: ''
       }, 
     ]
 
@@ -236,6 +236,13 @@ function App() {
       name: 'Shang-Chi and the Legend of the Ten Rings', 
       link: 'https://drive.google.com/drive/folders/1TLOHtWoX1W329lCP7a2gDPmrOGqtcMhJ?usp=sharing', 
       picture: 'http://oyster.ignimgs.com/wordpress/stg.ign.com/2021/04/Shang-Chi-Poster-Marvel.jpg', 
+      id: 6, 
+      available: ''
+    }, 
+    {
+      name: 'Hawkeye', 
+      link: 'https://drive.google.com/drive/folders/1p3irSPqpQKfuwO1iqp4-OoIsDsHF22gP?usp=sharing', 
+      picture: 'https://whatsondisneyplus.com/wp-content/uploads/2021/10/FCeRTdlWUA0mfbO.jpeg', 
       id: 6, 
       available: ''
     }, 
