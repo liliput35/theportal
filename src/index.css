@@ -13,6 +13,7 @@ body {
   font-family: 'Poppins', sans-serif;
   background-color: #1e1e1e;
   color: #e5e5e5;
+  overflow-x: hidden;
 }
 
 .container {
@@ -338,24 +339,37 @@ a {
   .navbar .container ul {
    width: 100%;
    margin: unset;
-   transition: all .3s ease;
+   animation: navIn .5s forwards;
   }
 
   .display {
-    transform: translateX(0);
+    display: block;
   }
 
   .nonenav {
-    transform: translateX(100%);
+    display: none;
   }
 
   .navbar ul li {
-    margin: 0 .7em;
+    margin-right: 0 1em;
   }
 
   .navbar {
     height: 50px;
     padding: 5px 0;
+    text-align: center;
+  }
+
+}
+
+@keyframes navIn {
+  from {
+    transform: translateY(5em);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
   }
 }
 
