@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/theportal/static/css/main.4b0eba84.chunk.css",
-    "main.js": "/theportal/static/js/main.7b5be65a.chunk.js",
-    "main.js.map": "/theportal/static/js/main.7b5be65a.chunk.js.map",
+    "main.js": "/theportal/static/js/main.7b9d16a2.chunk.js",
+    "main.js.map": "/theportal/static/js/main.7b9d16a2.chunk.js.map",
     "runtime-main.js": "/theportal/static/js/runtime-main.631c0642.js",
     "runtime-main.js.map": "/theportal/static/js/runtime-main.631c0642.js.map",
     "static/js/2.db133388.chunk.js": "/theportal/static/js/2.db133388.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.631c0642.js",
     "static/js/2.db133388.chunk.js",
     "static/css/main.4b0eba84.chunk.css",
-    "static/js/main.7b5be65a.chunk.js"
+    "static/js/main.7b9d16a2.chunk.js"
   ]
 }
