@@ -9,10 +9,10 @@ import LoginForm from './components/LoginForm'
 function App() {
    const newMovies = [
     {
-        name: 'Black Widow', 
-        link: 'https://liliput35.github.io/personal-portfolio/', 
-        picture: 'https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg',  
-        id: 1
+      name: 'Hawkeye', 
+      link: 'https://drive.google.com/drive/folders/1p3irSPqpQKfuwO1iqp4-OoIsDsHF22gP?usp=sharing', 
+      picture: 'https://whatsondisneyplus.com/wp-content/uploads/2021/10/FCeRTdlWUA0mfbO.jpeg', 
+      id: 1, 
     }, 
     {
         name: 'What If', 
