@@ -15,9 +15,9 @@ function App() {
       id: 1, 
     }, 
     {
-        name: 'What If', 
-        link: 'https://drive.google.com/drive/folders/1s4oviIJiraG49BHKmMY864zF0ZgBoCYw?usp=sharing', 
-        picture: 'https://media.comicbook.com/2021/07/marvel-what-if-tv-series-poster-official-disney-plus-1274908.jpeg?auto=webp&width=1280&height=1897&crop=1280:1897,smart', 
+        name: 'Eternals', 
+        link: 'https://drive.google.com/drive/folders/1Pl6ZwjBpg3ppEMVLcSOrYTLDZ4jldGUm?usp=sharing', 
+        picture: 'https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_.jpg', 
         id: 2
     }, 
     {
